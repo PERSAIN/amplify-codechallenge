@@ -10,6 +10,17 @@
       "StackName": "amplify-amplifycodechallenge-dev-12206",
       "StackId": "arn:aws:cloudformation:us-east-2:981940665629:stack/amplify-amplifycodechallenge-dev-12206/079dec30-577e-11ee-ab64-0aada3c9f0f5",
       "AmplifyAppId": "d1lrllb8ki1y28"
+    },
+    "categories": {
+      "auth": {
+        "amplifycodechallenge4c5768ab": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d1lrllb8ki1y28",
+          "type": "manual"
+        }
+      }
     }
   }
 }
